@@ -1,0 +1,4 @@
+language: ruby
+jvm:
+ - 8
+ - java
